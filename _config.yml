@@ -21,7 +21,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Google search results) and in your feed.xml site description.
 twitter_username: lemaire_t
 github_username: thibault-lemaire
-minimal_mistakes_skin: default
+minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 search: true
 
 # Build settings
@@ -59,21 +59,23 @@ plugins:
 
 author:
   name   : "Thibault Lemaire"
-  avatar : "/assets/images/Lemaire_Id.jpg"
+  avatar : "/assets/images/Lemaire_Id.JPG"
   bio    : "PhD Candidate at Université Paris 1 Panthéon - Sorbonne, Research fellow at Banque de France."
+  location : "Paris, France"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://"
+#      url: "https://"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/lemaire_t"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/thibault-lemaire"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/thibaultlemaire/"    
+      
 
 footer:
   links:
@@ -83,9 +85,6 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/thibault-lemaire"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
 
 defaults:
   # _posts
