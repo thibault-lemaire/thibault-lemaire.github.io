@@ -63,6 +63,9 @@ author:
   bio    : "PhD Candidate at Université Paris 1 Panthéon - Sorbonne, Research fellow at Banque de France."
   location : "Paris, France"
   links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:thibault.lemaire@etu.univ-paris1.fr"
     - label: "Website"
       icon: "fas fa-fw fa-link"
 #      url: "https://"
@@ -74,7 +77,13 @@ author:
       url: "https://github.com/thibault-lemaire"
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/thibaultlemaire/"    
+      url: "https://www.linkedin.com/in/thibaultlemaire/"
+    - label: "Google Scholar"
+      icon: "fas fa-fw fa-link"
+      url: "https://scholar.google.fr/citations?user=jguN16sAAAAJ"
+    - label: "RePEc"
+      icon: "fas fa-fw fa-link"
+      url: "https://ideas.repec.org/f/ple1078.html"  
       
 
 footer:
