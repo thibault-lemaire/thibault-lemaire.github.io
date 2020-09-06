@@ -7,3 +7,11 @@ main:
     url: /tags/
   - title: "About"
     url: /about/
+  - title: "CV"
+    url: /cv/
+  - title: "Research"
+    url: /research/
+  - title: "Teaching"
+    url: /teaching/
+  - title: "Contact"
+    url: /contact/
