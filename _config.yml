@@ -80,7 +80,10 @@ author:
       url: "https://scholar.google.fr/citations?user=jguN16sAAAAJ"
     - label: "RePEc"
       icon: "fas fa-fw fa-link"
-      url: "https://ideas.repec.org/f/ple1078.html"  
+      url: "https://ideas.repec.org/f/ple1078.html"
+    - label: "UP1 Panthéon - Sorbonne"
+      icon: "fas fa-fw fa-link"
+      url: "https://www.pantheonsorbonne.fr/fr/recherche/page-perso/page/?tx_oxcspagepersonnel_pi1[page]=presentation&tx_oxcspagepersonnel_pi1[uid]=e1800014305"  
       
 
 footer:
