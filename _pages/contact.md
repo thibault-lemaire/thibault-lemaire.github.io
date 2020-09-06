@@ -1,6 +1,8 @@
 ---
 layout: single
 classes: wide
+permalink: /contact/
+title: "Contact Information"
 ---
 
 {{ content }}
