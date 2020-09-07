@@ -95,6 +95,13 @@ footer:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/thibault-lemaire"
 
+# Analytics
+analytics:
+  provider               : "google-universal" # false (default), "google", "google-universal", "google-gtag", "custom"
+  google:
+    tracking_id          : "UA-151354716-3"
+    anonymize_ip         :  # true, false (default)
+
 defaults:
   # _posts
   - scope:
