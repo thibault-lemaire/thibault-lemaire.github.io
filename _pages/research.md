@@ -30,5 +30,6 @@ Monetary and fiscal policy, open macroeconomics, informality, economics of clima
 * ERF 25th Annual Conference, Kuwait City.
 
 ## Research Seminars:
-* 16th Doctorissimes, Doctoral School of Economics Panthéon-Sorbonne, Paris.
+* Development Economics Sorbonne Internal Research Seminar, Université Paris 1 Panthéon - Sorbonne, Paris.
+* 16th Doctorissimes, Doctoral School of Economics Panthéon - Sorbonne, Paris.
 * 7th Research Workshop, Cairo University - Université Paris 1 Panthéon - Sorbonne, Cairo.
