@@ -25,7 +25,7 @@ Monetary and fiscal policy, open macroeconomics, informality, economics of clima
 **Banque de France Working Paper Version**: [BdFWP #764](https://publications.banque-france.fr/sites/default/files/medias/documents/wp764.pdf)
 
 ## Work in Progress
-Phillips in a Revolution: Unemployment and Prices in Early 21st Century Egypt  
+[Phillips in a Revolution: Unemployment and Prices in Early 21st Century Egypt](https://erf.org.eg/app/uploads/2020/09/1599567968_583_1133738_265thibaultlemaire.pdf)  
 [Power Sector Reforms and Technological Change: Evidence from MENA countries](https://erf.org.eg/app/uploads/2020/08/1598457582_515_1002704_317dinaragabthibaultlemaire.pdf), with [Dina Ragab](https://scholar.cu.edu.eg/?q=dinaragab/)  
 A Small Open Economy Model: Assessing the Role of Monetary Policy in Egypt  
 
