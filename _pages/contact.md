@@ -15,7 +15,7 @@ Maison des Sciences Economiques
 75647 Paris cedex 13
 
 **Banque de France**  
-DGSEI - DECI - Service de la Zone franc et du financement du développement  
+DGSEI - DECI - Service de l’Afrique et du développement  
 31, rue Croix-des-Petits-Champs  
 75049 Paris cedex 01
 
