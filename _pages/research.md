@@ -24,9 +24,17 @@ Monetary and fiscal policy, open macroeconomics, informality, economics of clima
 
 **Banque de France Working Paper Version**: [BdFWP #764](https://publications.banque-france.fr/sites/default/files/medias/documents/wp764.pdf)
 
+
+[Power Sector Reforms and Technological Change: Evidence from Arab League Members](https://erf.org.eg/publications/power-sector-reforms-and-technological-change-evidence-from-arab-league-members-2/), with [Dina Ragab](https://scholar.cu.edu.eg/?q=dinaragab/) (November 2020).
+
+**Abstract**: Power sector reforms have been widely adopted in the turn of the 21st Century, including in the Middle East and North Africa. Have the promises that accompany such reforms led to technological change in the region? Adopting an instrumental variable approach and using an index of power sector reforms and aggregate macroeconomic data for 18 Arab League member states between 1982 and 2013, we provide robust evidence that there is a positive causal relationship between power sector reforms and technological change, proxied by high-tech exports, in Arab countries. While the literature has evidenced a relationship between such reforms and economic growth, our results suggest that technological change is a transmission channel of this relationship.
+
+**Keywords**: Power Sector Reforms, Industrialization, Technological Change, Arab Countries.
+
+**JEL Classification**: F14, L50, 014, O38
+
 ## Work in Progress
 [Phillips in a Revolution: Unemployment and Prices in Early 21st Century Egypt](https://erf.org.eg/app/uploads/2020/09/1599567968_583_1133738_265thibaultlemaire.pdf)  
-[Power Sector Reforms and Technological Change: Evidence from MENA countries](https://erf.org.eg/app/uploads/2020/08/1598457582_515_1002704_317dinaragabthibaultlemaire.pdf), with [Dina Ragab](https://scholar.cu.edu.eg/?q=dinaragab/)  
 A Small Open Economy Model: Assessing the Role of Monetary Policy in Egypt  
 
 ## Conferences:
