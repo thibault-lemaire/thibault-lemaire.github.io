@@ -34,6 +34,7 @@ Monetary and fiscal policy, open macroeconomics, informality, economics of clima
 **JEL Classification**: F14, L50, 014, O38
 
 ## Work in Progress
+Climate Change in Developing Countries: Global Warming Effects, Transmission Channels and Adaptation Policies
 [Phillips in a Revolution: Unemployment and Prices in Early 21st Century Egypt](https://erf.org.eg/app/uploads/2020/09/1599567968_583_1133738_265thibaultlemaire.pdf)  
 A Small Open Economy Model: Assessing the Role of Monetary Policy in Egypt  
 
