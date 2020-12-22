@@ -12,7 +12,7 @@ Monetary and fiscal policy, open macroeconomics, informality, economics of clima
 
 ## Working Papers
 
-[Fiscal Consolidations and Informality in Latin America and the Caribbean](https://ideas.repec.org/p/mse/cesdoc/20004.html), (January 2020).
+[**Fiscal Consolidations and Informality in Latin America and the Caribbean**](https://ideas.repec.org/p/mse/cesdoc/20004.html), (January 2020).
 
 **Abstract**: The transmission mechanisms of fiscal policy are significantly affected by informality in the labour market. Extending a narrative database of fiscal consolidations in 14 countries from Latin America and the Caribbean between 1989 and 2016 in order to account for heterogeneity in terms of commitment to the reforms, I show that tax-based and spending-based multipliers are both recessionary and do not significantly differ one from another in this region. Furthermore, these multipliers decline in absolute value as the level of labour informality increases in the economy, although evidences are less robust for spending-based consolidations. An analysis of the effects of tax-based consolidations on private demand suggests that labour market informality constitutes a short-term social buffer that attenuates the contractionary effects of this type of policy by increasing investment opportunities through tax evasion and entrepreneurial alternatives to unemployment for dismissed workers 
 
@@ -25,13 +25,23 @@ Monetary and fiscal policy, open macroeconomics, informality, economics of clima
 **Banque de France Working Paper Version**: [BdFWP #764](https://publications.banque-france.fr/sites/default/files/medias/documents/wp764.pdf)
 
 
-[Power Sector Reforms and Technological Change: Evidence from Arab League Members](https://erf.org.eg/publications/power-sector-reforms-and-technological-change-evidence-from-arab-league-members-2/), with [Dina Ragab](https://scholar.cu.edu.eg/?q=dinaragab/) (November 2020).
+[**Power Sector Reforms and Technological Change: Evidence from Arab League Members**](https://erf.org.eg/publications/power-sector-reforms-and-technological-change-evidence-from-arab-league-members-2/), with [Dina Ragab](https://scholar.cu.edu.eg/?q=dinaragab/) (November 2020).
 
 **Abstract**: Power sector reforms have been widely adopted in the turn of the 21st Century, including in the Middle East and North Africa. Have the promises that accompany such reforms led to technological change in the region? Adopting an instrumental variable approach and using an index of power sector reforms and aggregate macroeconomic data for 18 Arab League member states between 1982 and 2013, we provide robust evidence that there is a positive causal relationship between power sector reforms and technological change, proxied by high-tech exports, in Arab countries. While the literature has evidenced a relationship between such reforms and economic growth, our results suggest that technological change is a transmission channel of this relationship.
 
 **Keywords**: Power Sector Reforms, Industrialization, Technological Change, Arab Countries.
 
-**JEL Classification**: F14, L50, 014, O38
+**JEL Classification**: F14, L50, O14, O38
+
+
+[**Phillips in A Revolution: Unemployment and Prices in Early 21st Century Egypt**](https://erf.org.eg/publications/phillips-in-a-revolution-unemployment-and-prices-in-early-21st-century-egypt-2/) (December 2020).
+
+**Abstract**: The relative price Phillips curve hypothesis gives a better account of the dynamics of the Egyptian economy than the price Phillips curve. Using standard aggregate macroeconomic quarterly data for the Egyptian economy from 2003q1 to 2019q1 to obtain Ordinary Least Squares and Generalized Method of Moments estimates for four versions of the Phillips curve, this article provides evidence that the exchange rate regime affects the relation between prices and unemployment in emerging economies: while an economic boom leads to lower unemployment and higher inflation in a fixed exchange rate regime, the nominal appreciation of the currency negatively affects imported goods prices and flattens the price Phillips curve in a flexible exchange rate regime. The results also suggest a broken link between inflation and unemployment during the Egyptian Revolution and the subsequent period, raising questions on macroeconomic management in times of political turmoil.
+
+**Keywords**: Phillips Curve, Egyptian Economy, Labour Market, Monetary Policy, Small Open Economy.
+
+**JEL Classification**: E24, E31, E52, E58, F31
+
 
 ## Work in Progress
 Climate Change in Developing Countries: Global Warming Effects, Transmission Channels and Adaptation Policies  
