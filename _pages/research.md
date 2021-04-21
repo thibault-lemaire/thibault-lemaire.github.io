@@ -48,12 +48,15 @@ Climate Change in Developing Countries: Global Warming Effects, Transmission Cha
 A Small Open Economy Model: Assessing the Role of Monetary Policy in Egypt  
 
 ## Conferences:
-* ADRES Doctoral Conference 2021, Strasbourg
+* Pacific Conference for Development Economics (PacDev) 2021, UC San Diego (CA).
+* ADRES Doctoral Conference 2021, Strasbourg.
 * ERF 26th Annual Conference, Luxor.
 * 3rd Research Conference on Macroeconomic Modelling and Model Comparison, CEPR Network, Frankfurt.
 * ERF 25th Annual Conference, Kuwait City.
 
 ## Research Seminars:
+* Lunch Seminar, Agence française de développement (AFD), Paris
+* 2nd "Emerging Market MacroEconomics" Workshop, Universities of Bordeaux and Poitiers.
 * Development Economics Sorbonne Internal Research Seminar, Université Paris 1 Panthéon - Sorbonne, Paris.
 * PhD Seminar, Banque de France, Paris
 * Development Economics Sorbonne Internal Research Seminar, Université Paris 1 Panthéon - Sorbonne, Paris.
