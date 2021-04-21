@@ -48,6 +48,7 @@ Climate Change in Developing Countries: Global Warming Effects, Transmission Cha
 A Small Open Economy Model: Assessing the Role of Monetary Policy in Egypt  
 
 ## Conferences:
+* ERF 27th Annual Conference, Cairo.
 * Pacific Conference for Development Economics (PacDev) 2021, UC San Diego (CA).
 * ADRES Doctoral Conference 2021, Strasbourg.
 * ERF 26th Annual Conference, Luxor.
