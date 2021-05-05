@@ -12,6 +12,14 @@ Monetary and fiscal policy, open macroeconomics, informality, economics of clima
 
 ## Working Papers
 
+[**Civil Conflicts and Exchange Rate Misalignment: Evidence from MENA and Arab League Members**](https://erf.org.eg/publications/civil-conflicts-and-exchange-rate-misalignment-evidence-from-mena-and-arab-league-members/) (May 2021).
+
+**Abstract**: For more than a decade, civil conflicts intensity has been high in the Middle East and North Africa, yet the monetary and financial impacts of such episodes have received relatively little attention. Using macroeconomic and conflict panel data for Arab League members, Iran and Turkey during the period 1970–2018, this paper constructs a country-specific real exchange rate misalignment index and adopts an instrumental variable approach to show that civil conflicts lead to real exchange rate overvaluations in the region. Economic policy during post-conflict transitions should be elaborated based on a strategy to realign the currency in order to prevent further macroeconomic imbalances and foster social stability, economic growth and long-term development.
+
+**Keywords**: Exchange Rate Misalignment, Civil Conflict, Middle East & North Africa, Emerging and Developing Countries.
+
+**JEL Classification**: C23, D74, E32, F31, F41
+
 [**Fiscal Consolidations and Informality in Latin America and the Caribbean**](https://ideas.repec.org/p/mse/cesdoc/20004.html), (January 2020).
 
 **Abstract**: The transmission mechanisms of fiscal policy are significantly affected by informality in the labour market. Extending a narrative database of fiscal consolidations in 14 countries from Latin America and the Caribbean between 1989 and 2016 in order to account for heterogeneity in terms of commitment to the reforms, I show that tax-based and spending-based multipliers are both recessionary and do not significantly differ one from another in this region. Furthermore, these multipliers decline in absolute value as the level of labour informality increases in the economy, although evidences are less robust for spending-based consolidations. An analysis of the effects of tax-based consolidations on private demand suggests that labour market informality constitutes a short-term social buffer that attenuates the contractionary effects of this type of policy by increasing investment opportunities through tax evasion and entrepreneurial alternatives to unemployment for dismissed workers 
