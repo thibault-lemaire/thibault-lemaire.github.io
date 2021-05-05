@@ -45,7 +45,7 @@ Monetary and fiscal policy, open macroeconomics, informality, economics of clima
 
 ## Work in Progress
 Climate Change in Developing Countries: Global Warming Effects, Transmission Channels and Adaptation Policies  
-A Small Open Economy Model: Assessing the Role of Monetary Policy in Egypt
+A Small Open Economy Model: Assessing the Role of Monetary Policy in Egypt  
 [Civil Conflicts and Exchange Rate Misalignment: Evidence from MENA and Arab League Members](https://erf.org.eg/publications/civil-conflicts-and-exchange-rate-misalignment-evidence-from-mena-and-arab-league-members/)
 
 ## Conferences:
