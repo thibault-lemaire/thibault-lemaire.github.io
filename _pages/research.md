@@ -12,6 +12,14 @@ Monetary and fiscal policy, open macroeconomics, informality, economics of clima
 
 ## Working Papers
 
+[**Climate Change in Developing Countries: Global Warming Effects, Transmission Channels and Adaptation Policies**](https://publications.banque-france.fr/sites/default/files/medias/documents/wp822_0.pdf), with [Olivied de Bandt](https://www.banque-france.fr/en/economics/economists-and-researchers/olivier-de-bandt) and [Luc Jacolin](https://www.banque-france.fr/en/economie/economistes-et-chercheurs/luc-jacolin) (July 2021).
+
+**Abstract**: Using panel data covering 126 low-and middle-income countries over 1960-2017, we find that sustained positive temperature deviations from their historical norms have a non-linear negative effect on economic growth and growth per capita. A sustained 1°C temperature increase lowers real GDP per capita annual growth by 0.74–1.52 percentage points, irrespective of levels of development. We also find that temperature rise affects the households’ intertemporal trade-off between consumption and investment, since the share of private consumption in total value-added increases while the share of investment declines. A sectoral decomposition shows that the share of industrial value-added also declines. While the share of agricultural value-added increases, agricultural output and productivity declines. Taken together, our results suggest that global warming will reinforce development traps, hindering further adaptation to climate change, particularly in the countries with the lowest levels of income given their lower resilience and higher socioeconomic vulnerability.
+
+**Keywords**: Climate Change, Economic Growth, Adaptation, Developing Countries.
+
+**JEL Classification**: C33, E20, O11, O13, Q54
+
 [**Fiscal Consolidations and Informality in Latin America and the Caribbean**](https://ideas.repec.org/p/mse/cesdoc/20004.html), (January 2020).
 
 **Abstract**: The transmission mechanisms of fiscal policy are significantly affected by informality in the labour market. Extending a narrative database of fiscal consolidations in 14 countries from Latin America and the Caribbean between 1989 and 2016 in order to account for heterogeneity in terms of commitment to the reforms, I show that tax-based and spending-based multipliers are both recessionary and do not significantly differ one from another in this region. Furthermore, these multipliers decline in absolute value as the level of labour informality increases in the economy, although evidences are less robust for spending-based consolidations. An analysis of the effects of tax-based consolidations on private demand suggests that labour market informality constitutes a short-term social buffer that attenuates the contractionary effects of this type of policy by increasing investment opportunities through tax evasion and entrepreneurial alternatives to unemployment for dismissed workers 
