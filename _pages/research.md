@@ -42,7 +42,7 @@ Monetary and fiscal policy, open macroeconomics, informality, economics of clima
 **JEL Classification**: F14, L50, O14, O38
 
 
-[**Phillips in A Revolution: Unemployment and Prices in Early 21st Century Egypt**](https://erf.org.eg/publications/phillips-in-a-revolution-unemployment-and-prices-in-early-21st-century-egypt-2/), *{ERF Working Paper No. 1453* (December 2020).
+[**Phillips in A Revolution: Unemployment and Prices in Early 21st Century Egypt**](https://erf.org.eg/publications/phillips-in-a-revolution-unemployment-and-prices-in-early-21st-century-egypt-2/), *ERF Working Paper No. 1453* (December 2020).
 
 **Abstract**: The relative price Phillips curve hypothesis gives a better account of the dynamics of the Egyptian economy than the price Phillips curve. Using standard aggregate macroeconomic quarterly data for the Egyptian economy from 2003q1 to 2019q1 to obtain Ordinary Least Squares and Generalized Method of Moments estimates for four versions of the Phillips curve, this article provides evidence that the exchange rate regime affects the relation between prices and unemployment in emerging economies: while an economic boom leads to lower unemployment and higher inflation in a fixed exchange rate regime, the nominal appreciation of the currency negatively affects imported goods prices and flattens the price Phillips curve in a flexible exchange rate regime. The results also suggest a broken link between inflation and unemployment during the Egyptian Revolution and the subsequent period, raising questions on macroeconomic management in times of political turmoil.
 
