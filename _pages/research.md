@@ -55,6 +55,11 @@ Monetary and fiscal policy, open macroeconomics, informality, economics of clima
 [Civil Conflicts and Exchange Rate Misalignment: Evidence from MENA and Arab League Members](https://erf.org.eg/publications/civil-conflicts-and-exchange-rate-misalignment-evidence-from-mena-and-arab-league-members/)  
 A Small Open Economy Model: Assessing the Role of Monetary Policy in Egypt  
 
+
+## Other Publications: Policy Papers
+[Renforcer le soutien de la communauté internationale en faveur de l’Afrique pour répondre à la crise](https://ferdi.fr/dl/df-5bVbftTuESzje3KHpERFZLUa/ferdi-b220-renforcer-le-soutien-de-la-communaute-internationale-en-faveur.pdf), *Ferdi Note brève B220*, with Melchior Clerc, [Luc Jacolin](https://www.banque-france.fr/en/economie/economistes-et-chercheurs/luc-jacolin) and Nathan Viltard
+
+
 ## Conferences:
 * ERF 27th Annual Conference, Cairo.
 * Pacific Conference for Development Economics (PacDev) 2021, UC San Diego (CA).
