@@ -57,7 +57,7 @@ A Small Open Economy Model: Assessing the Role of Monetary Policy in Egypt
 
 
 ## Other Publications: Policy Papers
-[Renforcer le soutien de la communauté internationale en faveur de l’Afrique pour répondre à la crise](https://ferdi.fr/dl/df-5bVbftTuESzje3KHpERFZLUa/ferdi-b220-renforcer-le-soutien-de-la-communaute-internationale-en-faveur.pdf), *Ferdi Note brève B220*, with Melchior Clerc, [Luc Jacolin](https://www.banque-france.fr/en/economie/economistes-et-chercheurs/luc-jacolin) and Nathan Viltard
+[Renforcer le soutien de la communauté internationale en faveur de l’Afrique pour répondre à la crise](https://ferdi.fr/dl/df-5bVbftTuESzje3KHpERFZLUa/ferdi-b220-renforcer-le-soutien-de-la-communaute-internationale-en-faveur.pdf), *Ferdi Note brève B220*, with [Melchior Clerc](https://ideas.repec.org/e/pcl161.html), [Luc Jacolin](https://www.banque-france.fr/en/economie/economistes-et-chercheurs/luc-jacolin) and Nathan Viltard
 
 
 ## Conferences:
