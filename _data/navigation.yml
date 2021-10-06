@@ -3,6 +3,8 @@ main:
     url: /cv
   - title: "Research"
     url: /research
+  - title: "Policy"
+    url: /policy
   - title: "Teaching"
     url: /teaching
   - title: "Contact"
