@@ -20,7 +20,7 @@ Monetary and fiscal policy, open macroeconomics, informality, economics of clima
 
 **JEL Classification**: C33, E20, O11, O13, Q54
 
-[**Civil Conflicts and Exchange Rate Misalignment: Evidence from MENA and Arab League Members**](https://erf.org.eg/publications/civil-conflicts-and-exchange-rate-misalignment-evidence-from-mena-and-arab-league-members-2/), *ERF Working Paper No. 1495*, (October 2021).
+[**Civil Conflicts and Exchange Rate Misalignment: Evidence from MENA and Arab League Members**](https://erf.org.eg/publications/civil-conflicts-and-exchange-rate-misalignment-evidence-from-mena-and-arab-league-members-2/), *ERF Working Paper No. 1495* (October 2021).
 
 **Abstract**: For more than a decade, civil conflicts intensity has been high in the Middle East and North Africa, yet the monetary and financial impacts of such episodes have received relatively little attention. Using macroeconomic and conflict panel data for Arab League members, Iran and Turkey during the period 1970–2018, this paper constructs a country-specific real exchange rate misalignment index and adopts an instrumental variable approach to show that civil conflicts lead to real exchange rate overvaluations in the region: a 1 unit increase in civil conflict intensity leads to a 0.24 unit increase in the RER misalignment index. Economic policy during post-conflict transitions should be elaborated based on a strategy to realign the currency in order to prevent further macroeconomic imbalances and foster social stability, economic growth and long-term development.
 
