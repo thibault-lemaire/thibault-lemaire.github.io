@@ -71,8 +71,10 @@ A Small Open Economy Model: Assessing the Role of Monetary Policy in Egypt
 * ERF 25th Annual Conference, Kuwait City.
 
 ## Research Seminars:
+* Banque de France - FERDI Seminar, Paris.
+* IBFI's Green Finance Training Seminar, Banque de France, Paris.
 * DGSEI Seminar, Banque de France, Paris.
-* Lunch Seminar, Agence française de développement (AFD), Paris.
+* Brown Bag Seminar, Agence française de développement (AFD), Paris.
 * 2nd "Emerging Market MacroEconomics" Workshop, Universities of Bordeaux and Poitiers.
 * Development Economics Sorbonne Internal Research Seminar, Université Paris 1 Panthéon - Sorbonne, Paris.
 * PhD Seminar, Banque de France, Paris
