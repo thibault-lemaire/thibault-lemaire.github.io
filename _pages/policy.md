@@ -13,7 +13,7 @@ permalink: /policy
 ## Columns & Blog Posts
 [**Civil conflicts and exchange rate misalignment**](http://theforum.erf.org.eg/2021/10/03/civil-conflicts-exchange-rate-misalignment/), *The forum - ERF Policy Portal*
 
-[**Changement climatique : des migrations essentiellement intra-africaines**](https://ideas4development.org/climat-migrations-afrique/), *iD4D (in French)*, with [Maëlan Le Goff](https://ideas4development.org/auteur/maelan-legoff/)
+[**Changement climatique : des migrations essentiellement intra-africaines**](https://ideas4development.org/climat-migrations-afrique/), *iD4D (in French)*, with [Maëlan Le Goff](https://ideas4development.org/auteur/maelan-legoff/) 
 
 ## Contribution to Reports
 **Vulnérabilité au réchauffement climatique en Afrique et flux migratoires**, *in [Rapport annuel des coopérations monétaires Afrique-France - 2020](https://publications.banque-france.fr/rapport-annuel-des-cooperations-monetaires-afrique-france-2020)*, with [Maëlan Le Goff](https://www.banque-france.fr/maelan-le-goff)
