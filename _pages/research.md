@@ -60,7 +60,8 @@ Monetary and fiscal policy, open macroeconomics, informality, economics of clima
 
 
 ## Work in Progress
-[Drought and Growth in Arab League Members, Iran and Turkey](https://erf.org.eg/publications/drought-and-growth-in-arab-league-members-iran-and-turkey/)
+[Drought and Growth in Arab League Members, Iran and Turkey](https://erf.org.eg/publications/drought-and-growth-in-arab-league-members-iran-and-turkey/).
+
 A Small Open Economy Model: Assessing the Role of Monetary Policy in Egypt  
 
 ## Conferences:
