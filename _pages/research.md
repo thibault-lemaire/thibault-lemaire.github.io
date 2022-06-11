@@ -65,8 +65,8 @@ Climate-Related Natural Disasters and Exchange Rate Misalignment in Developing C
 A Small Open Economy Model: Assessing the Role of Monetary Policy in Egypt  
 
 ## Conferences:
-* 38th International Symposium on Money, Banking and Finance. Strasbourg.
-* 2022 International Conference on Development Economics (ICDE)\*. Clermont-Ferrand.
+* 38th International Symposium on Money, Banking and Finance, Strasbourg.
+* 2022 International Conference on Development Economics (ICDE)\*, Clermont-Ferrand.
 * 28th Annual Conference, Cairo.
 * ERF 27th Annual Conference, Cairo.
 * Pacific Conference for Development Economics (PacDev) 2021, UC San Diego (CA).
@@ -76,6 +76,9 @@ A Small Open Economy Model: Assessing the Role of Monetary Policy in Egypt
 * ERF 25th Annual Conference, Kuwait City.
 
 ## Research Seminars:
+* Banque de France - FERDI Seminar, Paris.
+* Development Economics Sorbonne Internal Research Seminar, Université Paris 1 Panthéon - Sorbonne, Paris.
+* IBFI’s Green Finance Training Seminar, Banque de France, Paris.
 * Banque de France - FERDI Seminar, Paris.
 * IBFI's Green Finance Training Seminar, Banque de France, Paris.
 * DGSEI Seminar, Banque de France, Paris.
