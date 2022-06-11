@@ -8,4 +8,4 @@ permalink: /cv
 ---
 
 To view my CV, click [here](https://thibault-lemaire.github.io/files/cv/CV-Lemaire-T_eng.pdf).  
-Pour consulter mon CV, cliquer [ici](https://thibault-lemaire.github.io/files/cv/CV-Lemaire-T_fr.pdf).
+Pour consulter mon CV, cliquer [ici](https://thibault-lemaire.github.io/files/cv/CV-Lemaire-T_fra.pdf).
