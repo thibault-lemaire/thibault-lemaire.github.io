@@ -67,7 +67,7 @@ A Small Open Economy Model: Assessing the Role of Monetary Policy in Egypt
 ## Conferences:
 * 38th International Symposium on Money, Banking and Finance, Strasbourg.
 * 2022 International Conference on Development Economics (ICDE)\*, Clermont-Ferrand.
-* 28th Annual Conference, Cairo.
+* ERF 28th Annual Conference, Cairo.
 * ERF 27th Annual Conference, Cairo.
 * Pacific Conference for Development Economics (PacDev) 2021, UC San Diego (CA).
 * ADRES Doctoral Conference 2021, Strasbourg.
