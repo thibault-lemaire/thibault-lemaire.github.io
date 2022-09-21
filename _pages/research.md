@@ -68,9 +68,8 @@ Monetary and fiscal policy, open macroeconomics, informality, economics of clima
 
 
 ## Work in Progress
-Climate-Related Natural Disasters and Exchange Rate Misalignment in Developing Countries.  
-[Drought and Growth in Arab League Members, Iran and Turkey](https://erf.org.eg/publications/drought-and-growth-in-arab-league-members-iran-and-turkey/).  
-A Small Open Economy Model: Assessing the Role of Monetary Policy in Egypt  
+Climate-Related Natural Disasters and Exchange Rate Misalignment in Developing Countries.
+A Small Open Economy Model: Assessing the Role of Monetary Policy in Egypt.
 
 ## Conferences:
 * Frontiers of Climate and Nature in Macroeconomics and Finance, Banque de France & NGFS (forthcoming).
