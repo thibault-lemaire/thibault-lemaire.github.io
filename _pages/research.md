@@ -72,8 +72,9 @@ Climate-Related Natural Disasters and Exchange Rate Misalignment in Developing C
 A Small Open Economy Model: Assessing the Role of Monetary Policy in Egypt.
 
 ## Conferences:
-* Frontiers of Climate and Nature in Macroeconomics and Finance, Banque de France & NGFS (forthcoming).
-* The Economics of Informality Conference 2022, Bogota (forthcoming).
+* 2023 CSAE Conference, Oxford (forthcoming).
+* Frontiers of Climate and Nature in Macroeconomics and Finance, Banque de France & NGFS.
+* The Economics of Informality Conference 2022, Bogota.
 * 38th International Symposium on Money, Banking and Finance, Strasbourg.
 * 2022 International Conference on Development Economics (ICDE)\*, Clermont-Ferrand.
 * ERF 28th Annual Conference, Cairo.
@@ -85,7 +86,10 @@ A Small Open Economy Model: Assessing the Role of Monetary Policy in Egypt.
 * ERF 25th Annual Conference, Kuwait City.
 
 ## Research Seminars:
+* 2nd Lille-Reading Workshop on International Finance “Tensions within Globalisation”, Online (Lille - Reading universities, forthcoming).
 * 8th Research Workshop, Cairo University - Université Paris 1 Panthéon - Sorbonne, Cairo (forthcoming).
+* DGSEI Seminar, Banque de France, Paris.
+* Development Economics Sorbonne Internal Research Seminar, Université Paris 1 Panthéon - Sorbonne, Paris.
 * Banque de France - FERDI Seminar, Paris.
 * Development Economics Sorbonne Internal Research Seminar, Université Paris 1 Panthéon - Sorbonne, Paris.
 * IBFI’s Green Finance Training Seminar, Banque de France, Paris.
