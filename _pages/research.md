@@ -69,6 +69,13 @@ Monetary and fiscal policy, open macroeconomics, informality, economics of clima
 
 ## Work in Progress
 Climate-Related Natural Disasters and Exchange Rate Misalignment in Developing Countries.
+
+International Commodity Prices Transmission to Consumer Prices in Africa, with *Paul Vertier*.
+
+Climate Variability and International Migrations From Low-Income Countries: Does Financial Inclusion Matter?, with *Maëlan Le Goff*.
+
+Climate-Related Natural Disasters and Financial Stability in Developing Countries, with *Vincent Fleuriet*.
+
 A Small Open Economy Model: Assessing the Role of Monetary Policy in Egypt.
 
 ## Conferences:
