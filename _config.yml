@@ -57,7 +57,7 @@ plugins:
 author:
   name   : "Thibault Lemaire"
   avatar : "/assets/images/Lemaire_Id.JPG"
-  bio    : "PhD Candidate at Université Paris 1 Panthéon - Sorbonne, Research fellow at Banque de France."
+  bio    : "PhD Candidate at Université Paris 1 Panthéon - Sorbonne, former Research fellow at Banque de France."
   location : "Paris, France"
   links:
     - label: "Email"
