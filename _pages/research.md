@@ -10,6 +10,10 @@ permalink: /research
 ## Fields of interest
 Monetary and fiscal policy, open macroeconomics, informality, economics of climate change, developing countries. 
 
+
+## Publications
+**Financial Inclusion and International Migration in a Context of Climate Instability**, with Maëlan Le Goff (2022), *forthcoming in **Revue d'économie du développement***.
+
 ## Working Papers
 
 [**Drought and Growth in Arab League Members, Iran and Turkey**](https://erf.org.eg/publications/drought-and-growth-in-arab-league-members-iran-and-turkey-2/), *ERF Working Paper No. 1578* (September 2022).
