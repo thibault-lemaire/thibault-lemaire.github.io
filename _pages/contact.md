@@ -14,11 +14,6 @@ Maison des Sciences Economiques
 106 - 112 Boulevard de l’Hôpital  
 75647 Paris cedex 13
 
-**Banque de France**  
-DGSEI - DECI - Service de l’Afrique et du développement  
-31, rue Croix-des-Petits-Champs  
-75049 Paris cedex 01
 
-## Emails
+## Email
 [thibault.lemaire@etu.univ-paris1.fr](mailto:thibault.lemaire@etu.univ-paris1.fr)  
-[thibault.lemaire@banque-france.fr](mailto:thibault.lemaire@banque-france.fr)
