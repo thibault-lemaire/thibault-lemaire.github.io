@@ -12,7 +12,7 @@ permalink: /policy
 
 ## Columns & Blog Posts
 [**The pass-through of commodity prices to inflation in Africa**](https://blocnotesdeleco.banque-france.fr/en/blog-entry/pass-through-commodity-prices-inflation-africa), *Eco Notepad n°290*, with Paul Vertier \
-    version française : [Transmission des prix des matières premières à l’inflation en Afrique](https://blocnotesdeleco.banque-france.fr/billet-de-blog/transmission-des-prix-des-matieres-premieres-linflation-en-afrique), *Bloc-notes Éco n°290*
+version française : [**Transmission des prix des matières premières à l’inflation en Afrique**](https://blocnotesdeleco.banque-france.fr/billet-de-blog/transmission-des-prix-des-matieres-premieres-linflation-en-afrique), *Bloc-notes Éco n°290*
 
 [**Civil conflicts and exchange rate misalignment**](http://theforum.erf.org.eg/2021/10/03/civil-conflicts-exchange-rate-misalignment/), *The forum - ERF Policy Portal*
 
