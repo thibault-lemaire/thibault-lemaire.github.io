@@ -11,7 +11,8 @@ permalink: /policy
 [**Renforcer le soutien de la communauté internationale en faveur de l’Afrique pour répondre à la crise**](https://ferdi.fr/dl/df-5bVbftTuESzje3KHpERFZLUa/ferdi-b220-renforcer-le-soutien-de-la-communaute-internationale-en-faveur.pdf), *Ferdi Note brève B220*, with [Melchior Clerc](https://ideas.repec.org/e/pcl161.html), [Luc Jacolin](https://www.banque-france.fr/en/economie/economistes-et-chercheurs/luc-jacolin) and Nathan Viltard
 
 ## Columns & Blog Posts
-[**The pass-through of commodity prices to inflation in Africa**](https://blocnotesdeleco.banque-france.fr/en/blog-entry/pass-through-commodity-prices-inflation-africa), *Eco Notepad n°290*, with Paul Vertier (version française : [Transmission des prix des matières premières à l’inflation en Afrique](https://blocnotesdeleco.banque-france.fr/billet-de-blog/transmission-des-prix-des-matieres-premieres-linflation-en-afrique))
+[**The pass-through of commodity prices to inflation in Africa**](https://blocnotesdeleco.banque-france.fr/en/blog-entry/pass-through-commodity-prices-inflation-africa), *Eco Notepad n°290*, with Paul Vertier
+  version française : [Transmission des prix des matières premières à l’inflation en Afrique](https://blocnotesdeleco.banque-france.fr/billet-de-blog/transmission-des-prix-des-matieres-premieres-linflation-en-afrique)
 
 [**Civil conflicts and exchange rate misalignment**](http://theforum.erf.org.eg/2021/10/03/civil-conflicts-exchange-rate-misalignment/), *The forum - ERF Policy Portal*
 
