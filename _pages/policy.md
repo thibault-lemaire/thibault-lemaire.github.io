@@ -16,6 +16,8 @@ permalink: /policy
 [**Changement climatique : des migrations essentiellement intra-africaines**](https://ideas4development.org/climat-migrations-afrique/), *iD4D (in French)*, with [Maëlan Le Goff](https://ideas4development.org/auteur/maelan-legoff/) 
 
 ## Contribution to Reports
+**Prix des matières premières et inflation en afrique**, *in [Rapport annuel des coopérations monétaires Afrique-France - 2021](https://publications.banque-france.fr/liste-chronologique/cooperations-monetaires-afrique-france?year=2022)*, with Paul Vertier
+
 **Vulnérabilité au réchauffement climatique en Afrique et flux migratoires**, *in [Rapport annuel des coopérations monétaires Afrique-France - 2020](https://publications.banque-france.fr/rapport-annuel-des-cooperations-monetaires-afrique-france-2020)*, with [Maëlan Le Goff](https://www.banque-france.fr/maelan-le-goff)
 
 **Situation sanitaire et conséquences socio‑économiques de la crise en Afrique**, *in [Rapport annuel des coopérations monétaires Afrique-France - 2020](https://publications.banque-france.fr/rapport-annuel-des-cooperations-monetaires-afrique-france-2020)*, with [Melchior Clerc](https://ideas.repec.org/e/pcl161.html), [Luc Jacolin](https://www.banque-france.fr/en/economie/economistes-et-chercheurs/luc-jacolin) and Nathan Viltard
