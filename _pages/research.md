@@ -16,6 +16,15 @@ Monetary and fiscal policy, open macroeconomics, informality, economics of clima
 
 ## Working Papers
 
+
+[**International Commodity Prices Transmission to Consumer Prices in Africa**](https://ferdi.fr/publications/international-commodity-prices-transmission-to-consumer-prices-in-africa), *Ferdi Working Paper No. 314* (January 2023).
+
+**Abstract**: Global commodity prices spikes can have strong macroeconomic effects, particularly in developing countries. This paper estimates the global commodity prices pass-through to consumer price inflation in Africa. Our sample includes monthly data for 48 countries over the period 2002m02–2021m04. We consider 17 commodity prices separately to take into account both the heterogeneity in price variations and the cross-correlations between them, and to depart from aggregate indices that use weights unrepresentative of consumption in African countries. Using local projections in a panel dataset, we find a maximum passthrough of 24%, and a long-run pass-through of about 20%, higher than usually found in the literature. We also consider country-specific regressions to test whether estimated pass-through are related to countries’ observable characteristics.
+
+**Keywords**: Commodity prices, food prices, energy prices, inflation, pass-through, Africa.
+
+**JEL classification**: C23, E31, F44, O11, Q02.
+
 [**Drought and Growth in Arab League Members, Iran and Turkey**](https://erf.org.eg/publications/drought-and-growth-in-arab-league-members-iran-and-turkey-2/), *ERF Working Paper No. 1578* (September 2022).
 
 **Abstract**: Water scarcity and droughts have long characterized the Middle East and North Africa, and climate change represents an additional challenge to this region’s development prospects. Using macroeconomic and climate panel data for Arab League members, Iran and Turkey during the period 1960–2018, this paper assesses the effects of sustained drought deviations from their historical norms on output growth in the region and shows that droughts decrease output growth in oil importing countries, with no or statistically weakly significant positive effects in oil exporting countries. These effects do not strengthen as the horizon increases and vanish after one year but do not revert in subsequent periods, leading to lasting losses in output level in oil importing countries. The agricultural sector and civil violence appear to be two of the transmission channels. The results advocate for carefully planned economic diversification in the region and shed light to associated risks.
@@ -74,8 +83,6 @@ Monetary and fiscal policy, open macroeconomics, informality, economics of clima
 ## Work in Progress
 Climate-Related Natural Disasters and Exchange Rate Misalignment in Developing Countries.
 
-International Commodity Prices Transmission to Consumer Prices in Africa, with *Paul Vertier*.
-
 Climate Variability and International Migrations From Low-Income Countries: Does Financial Inclusion Matter?, with *Maëlan Le Goff*.
 
 Climate-Related Natural Disasters and Financial Stability in Developing Countries, with *Vincent Fleuriet*.
@@ -84,6 +91,7 @@ A Small Open Economy Model: Assessing the Role of Monetary Policy in Egypt.
 
 ## Conferences:
 * 2023 CSAE Conference, Oxford (forthcoming).
+* 2nd Annual Central Bank Conference on Development Economics in the MENA region (forthcoming).
 * Frontiers of Climate and Nature in Macroeconomics and Finance, Banque de France & NGFS.
 * The Economics of Informality Conference 2022, Bogota.
 * 38th International Symposium on Money, Banking and Finance, Strasbourg.
@@ -97,8 +105,8 @@ A Small Open Economy Model: Assessing the Role of Monetary Policy in Egypt.
 * ERF 25th Annual Conference, Kuwait City.
 
 ## Research Seminars:
-* 2nd Lille-Reading Workshop on International Finance “Tensions within Globalisation”, Online (Lille - Reading universities, forthcoming).
-* 8th Research Workshop, Cairo University - Université Paris 1 Panthéon - Sorbonne, Cairo (forthcoming).
+* 2nd Lille-Reading Workshop on International Finance “Tensions within Globalisation”, Online (Lille - Reading universities).
+* 8th Research Workshop, Cairo University - Université Paris 1 Panthéon - Sorbonne, Cairo.
 * DGSEI Seminar, Banque de France, Paris.
 * Development Economics Sorbonne Internal Research Seminar, Université Paris 1 Panthéon - Sorbonne, Paris.
 * Banque de France - FERDI Seminar, Paris.
