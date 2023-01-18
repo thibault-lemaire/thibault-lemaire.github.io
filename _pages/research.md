@@ -17,7 +17,7 @@ Monetary and fiscal policy, open macroeconomics, informality, economics of clima
 ## Working Papers
 
 
-[**International Commodity Prices Transmission to Consumer Prices in Africa**](https://ferdi.fr/publications/international-commodity-prices-transmission-to-consumer-prices-in-africa), *Ferdi Working Paper No. 314* (January 2023).
+[**International Commodity Prices Transmission to Consumer Prices in Africa**](https://ferdi.fr/publications/international-commodity-prices-transmission-to-consumer-prices-in-africa), *Ferdi Working Paper No. 314*, with Paul Vertier (January 2023).
 
 **Abstract**: Global commodity prices spikes can have strong macroeconomic effects, particularly in developing countries. This paper estimates the global commodity prices pass-through to consumer price inflation in Africa. Our sample includes monthly data for 48 countries over the period 2002m02–2021m04. We consider 17 commodity prices separately to take into account both the heterogeneity in price variations and the cross-correlations between them, and to depart from aggregate indices that use weights unrepresentative of consumption in African countries. Using local projections in a panel dataset, we find a maximum passthrough of 24%, and a long-run pass-through of about 20%, higher than usually found in the literature. We also consider country-specific regressions to test whether estimated pass-through are related to countries’ observable characteristics.
 
