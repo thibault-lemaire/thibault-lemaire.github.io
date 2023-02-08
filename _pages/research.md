@@ -17,13 +17,16 @@ Monetary and fiscal policy, open macroeconomics, informality, economics of clima
 ## Working Papers
 
 
-[**International Commodity Prices Transmission to Consumer Prices in Africa**](https://ferdi.fr/publications/international-commodity-prices-transmission-to-consumer-prices-in-africa), *Ferdi Working Paper No. 314*, with Paul Vertier (January 2023).
+[**International Commodity Prices Transmission to Consumer Prices in Africa**](https://publications.banque-france.fr/en/international-commodity-prices-transmission-consumer-prices-africa), *Banque de France Working Paper 906*, with Paul Vertier (February 2023).
 
-**Abstract**: Global commodity prices spikes can have strong macroeconomic effects, particularly in developing countries. This paper estimates the global commodity prices pass-through to consumer price inflation in Africa. Our sample includes monthly data for 48 countries over the period 2002m02–2021m04. We consider 17 commodity prices separately to take into account both the heterogeneity in price variations and the cross-correlations between them, and to depart from aggregate indices that use weights unrepresentative of consumption in African countries. Using local projections in a panel dataset, we find a maximum passthrough of 24%, and a long-run pass-through of about 20%, higher than usually found in the literature. We also consider country-specific regressions to test whether estimated pass-through are related to countries’ observable characteristics.
+**Abstract**: Global commodity prices spikes can have strong macroeconomic effects, particularly in developing countries. This paper estimates the global commodity prices pass-through to consumer price inflation in Africa. Our sample includes monthly data for 48 countries over the period 2002m02-2021m04. We consider 17 commodity prices separately to take into account both the heterogeneity in price variations and the cross-correlations between them, and to depart from aggregate indices that use weights unrepresentative of consumption in African countries. Using local projections in a panel dataset, we find a maximum pass-through of 24%, and a long-run (18 months) pass-through of about 20%, higher than usually found in the literature, which typically uses aggregate indices. We also consider country-specific regressions to test whether estimated pass-through are related to countries’ observable characteristics. We find evidence that the pass-through is negatively correlated with the GDP per capita and the quality of transport infrastructure, and positively correlated with the share of food and energy in the consumption basket and the share of taxes on goods and services in government revenue. Net oil exporters, countries with larger energy subsidies and with a more independent central bank tend to have a lower pass-through. We further show that commodity-specific pass-through are correlated with the share of corresponding goods in the consumer basket.
 
 **Keywords**: Commodity prices, food prices, energy prices, inflation, pass-through, Africa.
 
 **JEL classification**: C23, E31, F44, O11, Q02.
+
+**Ferdi Working Paper Version**: [Ferdi WP 314](https://ferdi.fr/publications/international-commodity-prices-transmission-to-consumer-prices-in-africa)
+
 
 [**Drought and Growth in Arab League Members, Iran and Turkey**](https://erf.org.eg/publications/drought-and-growth-in-arab-league-members-iran-and-turkey-2/), *ERF Working Paper No. 1578* (September 2022).
 
