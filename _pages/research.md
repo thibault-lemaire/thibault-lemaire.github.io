@@ -94,7 +94,7 @@ A Small Open Economy Model: Assessing the Role of Monetary Policy in Egypt.
 
 ## Conferences:
 * 2023 CSAE Conference, Oxford (forthcoming).
-* 2nd Annual Central Bank Conference on Development Economics in the MENA region (forthcoming).
+* 2nd Annual Central Bank Conference on Development Economics in the MENA region, Riyadh.
 * Frontiers of Climate and Nature in Macroeconomics and Finance, Banque de France & NGFS.
 * The Economics of Informality Conference 2022, Bogota.
 * 38th International Symposium on Money, Banking and Finance, Strasbourg.
