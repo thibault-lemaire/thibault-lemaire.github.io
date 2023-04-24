@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Thibault Lemaire
 email: thibault.lemaire@etu.univ-paris1.frequently
-description: "Personnal website of Thibault Lemaire"
+description: "Personal website of Thibault Lemaire"
 twitter_username: lemaire_t
 github_username: thibault-lemaire
 minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
