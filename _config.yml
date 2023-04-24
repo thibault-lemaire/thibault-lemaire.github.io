@@ -57,8 +57,8 @@ plugins:
 author:
   name   : "Thibault Lemaire"
   avatar : "/assets/images/Lemaire_Id.JPG"
-  bio    : "PhD Candidate at Université Paris 1 Panthéon - Sorbonne, former Research fellow at Banque de France."
-  location : "Paris, France"
+  bio    : "Economist at the IMF (African Department), PhD from Université Paris 1 Panthéon - Sorbonne, former Research fellow at Banque de France."
+  location : "Washington DC, USA"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
