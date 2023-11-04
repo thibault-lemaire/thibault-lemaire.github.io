@@ -13,7 +13,9 @@ Monetary and fiscal policy, open macroeconomics, informality, economics of clima
 
 ## Publications
 **Civil Conflicts and Exchange Rate Misalignment: Evidence from MENA and Arab League Members**, *forthcoming in **Review of Middle East Economics and Finance***.
+
   **Keywords**: Exchange Rate Misalignment, Civil Conflict, Middle East & North Africa, Emerging and Developing Countries.
+  
   **JEL Classification**: C23, D74, E32, F31, F41
 
 **Financial Inclusion and International Migration in a Context of Climate Instability**, with Maëlan Le Goff (2022), ***Revue d'économie du développement*** 31 (2), 211-217.
