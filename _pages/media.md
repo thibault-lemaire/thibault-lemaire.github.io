@@ -8,7 +8,9 @@ permalink: /media
 ---
 
 ## Press Interviews
-""[**Continuar a investir na diversificação da economia é mais importante do que nunca**](https://ferdi.fr/dl/df-5bVbftTuESzje3KHpERFZLUa/ferdi-b220-renforcer-le-soutien-de-la-communaute-internationale-en-faveur.pdf),"" *Expresso das Ilhas, Cabo Verde (SSA REO - April 2025)*
+"[**Continuar a investir na diversificação da economia é mais importante do que nunca**](https://expressodasilhas.cv/)," *Expresso das Ilhas, Cabo Verde (SSA REO - April 2025)*
+
+"[**Um dos maiores desafios é tornar a dívida em investimento produtivo, para que possa impactar positivamente a economia**]([https://ferdi.fr/dl/df-5bVbftTuESzje3KHpERFZLUa/ferdi-b220-renforcer-le-soutien-de-la-communaute-internationale-en-faveur.pdf](https://expressodasilhas.cv/economia/2024/04/28/um-dos-maiores-desafios-e-tornar-a-divida-em-investimento-produtivo-para-que-possa-impactar-positivamente-a-economia/91163))," *Expresso das Ilhas, Cabo Verde (SSA REO - April 2024)*
 
 ## Radio Interviews
 [**Dynamics and Implications of the Recent Rise in Wheat Prices**](https://blocnotesdeleco.banque-france.fr/en/blog-entry/dynamics-and-implications-recent-rise-wheat-prices), *Eco Notepad n°298*, with Raj Rajesh, Paul Vertier, Arthur Stalla-Bourdillon, and Aude Le Metayer \
