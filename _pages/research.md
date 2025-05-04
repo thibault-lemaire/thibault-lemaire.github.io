@@ -8,28 +8,19 @@ permalink: /research
 ---
 
 ## Fields of interest
-Monetary and fiscal policy, open macroeconomics, informality, economics of climate change, developing countries. 
+Monetary and fiscal policy, open macroeconomics, informality, economics of climate change, developing countries, public debt. 
 
 
 ## Publications
-[**Civil Conflicts and Exchange Rate Misalignment: Evidence from MENA and Arab League Members**](https://www.degruyter.com/document/doi/10.1515/rmeef-2022-0001/html), ***Review of Middle East Economics and Finance***, 19 (2), 101-130.
+
+[**International Commodity Prices Transmission to Consumer Prices in Africa**](https://doi.org/10.1093/wber/lhae034), with Paul Vertier (2024), ***The World Bank Economic Review***, lhae034.
+
+[**Civil Conflicts and Exchange Rate Misalignment: Evidence from MENA and Arab League Members**](https://www.degruyter.com/document/doi/10.1515/rmeef-2022-0001/html), 2023, ***Review of Middle East Economics and Finance***, 19 (2), 101-130.
 
 [**Financial Inclusion and International Migration in a Context of Climate Instability**](https://www.cairn.info/revue-d-economie-du-developpement-2022-2-page-211.htm), with Maëlan Le Goff (2022), ***Revue d'économie du développement*** 31 (2), 211-217.
 
 
 ## Working Papers
-
-
-[**International Commodity Prices Transmission to Consumer Prices in Africa**](https://publications.banque-france.fr/en/international-commodity-prices-transmission-consumer-prices-africa), *Banque de France Working Paper 906*, with Paul Vertier (February 2023).
-
-**Abstract**: Global commodity prices spikes can have strong macroeconomic effects, particularly in developing countries. This paper estimates the global commodity prices pass-through to consumer price inflation in Africa. Our sample includes monthly data for 48 countries over the period 2002m02-2021m04. We consider 17 commodity prices separately to take into account both the heterogeneity in price variations and the cross-correlations between them, and to depart from aggregate indices that use weights unrepresentative of consumption in African countries. Using local projections in a panel dataset, we find a maximum pass-through of 24%, and a long-run (18 months) pass-through of about 20%, higher than usually found in the literature, which typically uses aggregate indices. We also consider country-specific regressions to test whether estimated pass-through are related to countries’ observable characteristics. We find evidence that the pass-through is negatively correlated with the GDP per capita and the quality of transport infrastructure, and positively correlated with the share of food and energy in the consumption basket and the share of taxes on goods and services in government revenue. Net oil exporters, countries with larger energy subsidies and with a more independent central bank tend to have a lower pass-through. We further show that commodity-specific pass-through are correlated with the share of corresponding goods in the consumer basket.
-
-**Keywords**: Commodity prices, food prices, energy prices, inflation, pass-through, Africa.
-
-**JEL classification**: C23, E31, F44, O11, Q02.
-
-**Ferdi Working Paper Version**: [Ferdi WP 314](https://ferdi.fr/publications/international-commodity-prices-transmission-to-consumer-prices-in-africa)
-
 
 [**Drought and Growth in Arab League Members, Iran and Turkey**](https://erf.org.eg/publications/drought-and-growth-in-arab-league-members-iran-and-turkey-2/), *ERF Working Paper No. 1578* (September 2022).
 
@@ -46,14 +37,6 @@ Monetary and fiscal policy, open macroeconomics, informality, economics of clima
 **Keywords**: Climate Change, Economic Growth, Adaptation, Developing Countries.
 
 **JEL Classification**: C33, E20, O11, O13, Q54
-
-[**Civil Conflicts and Exchange Rate Misalignment: Evidence from MENA and Arab League Members**](https://erf.org.eg/publications/civil-conflicts-and-exchange-rate-misalignment-evidence-from-mena-and-arab-league-members-2/), *ERF Working Paper No. 1495* (October 2021).
-
-**Abstract**: For more than a decade, civil conflicts intensity has been high in the Middle East and North Africa, yet the monetary and financial impacts of such episodes have received relatively little attention. Using macroeconomic and conflict panel data for Arab League members, Iran and Turkey during the period 1970–2018, this paper constructs a country-specific real exchange rate misalignment index and adopts an instrumental variable approach to show that civil conflicts lead to real exchange rate overvaluations in the region: a 1 unit increase in civil conflict intensity leads to a 0.24 unit increase in the RER misalignment index. Economic policy during post-conflict transitions should be elaborated based on a strategy to realign the currency in order to prevent further macroeconomic imbalances and foster social stability, economic growth and long-term development.
-
-**Keywords**: Exchange Rate Misalignment, Civil Conflict, Middle East & North Africa, Emerging and Developing Countries.
-
-**JEL Classification**: C23, D74, E32, F31, F41
 
 [**Fiscal Consolidations and Informality in Latin America and the Caribbean**](https://ideas.repec.org/p/mse/cesdoc/20004.html), *Documents de travail du Centre d'Économie de la Sorbonne 2020.04* (January 2020).
 
@@ -86,17 +69,8 @@ Monetary and fiscal policy, open macroeconomics, informality, economics of clima
 **JEL Classification**: E24, E31, E52, E58, F31
 
 
-## Work in Progress
-Climate-Related Natural Disasters and Exchange Rate Misalignment in Developing Countries.
-
-Climate Variability and International Migrations From Low-Income Countries: Does Financial Inclusion Matter?, with *Maëlan Le Goff*.
-
-Climate-Related Natural Disasters and Financial Stability in Developing Countries, with *Vincent Fleuriet*.
-
-A Small Open Economy Model: Assessing the Role of Monetary Policy in Egypt.
 
 ## Conferences:
-* 2023 CSAE Conference, Oxford (forthcoming).
 * 2nd Annual Central Bank Conference on Development Economics in the MENA region, Riyadh.
 * Frontiers of Climate and Nature in Macroeconomics and Finance, Banque de France & NGFS.
 * The Economics of Informality Conference 2022, Bogota.
