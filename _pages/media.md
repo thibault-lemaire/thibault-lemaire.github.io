@@ -38,7 +38,7 @@ Octobre 2024:
 
 ## Presentations
 [**Harnessing Renewables in Sub-Saharan Africa: Barriers Reforms and Economic Prospects**](https://www.imfconnect.org/content/imf/en/annual-meetings/calendar/open/2024/10/22/188772.html), *Analytical Corner, 2024 Annual Meetings.*
-[](https://cf-images.us-east-1.prod.boltdns.net/v1/static/45228659001/e6fabd77-5879-4134-8a60-d04b385f41e1/32d36a5d-dd27-41be-94c4-0ba2bf17dc44/1280x720/match/image.jpg)
+![](https://cf-images.us-east-1.prod.boltdns.net/v1/static/45228659001/e6fabd77-5879-4134-8a60-d04b385f41e1/32d36a5d-dd27-41be-94c4-0ba2bf17dc44/1280x720/match/image.jpg)
 
 
 
