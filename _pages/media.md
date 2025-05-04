@@ -19,33 +19,10 @@ permalink: /media
 
 ## REO Videos
 
-{% include youtube.html id="C9LqM4dwgIw" %}
-
-Solarized dark             |  Solarized Ocean
+October 2023             |  April 2024
 :-------------------------:|:-------------------------:
 {% include youtube.html id="C9LqM4dwgIw" %}  |  {% include youtube.html id="HylKBBXQWGE" %}
 
-
-!{% include youtube.html id="C9LqM4dwgIw" %} !{% include youtube.html id="HylKBBXQWGE" %}
-
-<table>
-<tr>
-<th>Outubro de 2023</th>
-<th>Abril de 2024</th>
-</tr>
-<tr>
-<td>
-<pre>
-{% include youtube.html id="C9LqM4dwgIw" %}
-</pre>
-</td>
-<td>
-{% include youtube.html id="HylKBBXQWGE" %}
-</td>
-</tr>
-</table>
-
-Try
 
 
 
