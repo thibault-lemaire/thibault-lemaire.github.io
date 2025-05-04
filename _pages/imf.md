@@ -7,7 +7,22 @@ sitemap: true
 permalink: /imf
 ---
 
-## Research Publications
+## Research
+[**Breaking the Trend: Debt Stabilization in Sub-Saharan Africa**](https://www.imf.org/en/Publications/REO/SSA/Issues/2025/04/25/regional-economic-outlook-for-sub-saharan-africa-april-2025), with Athene Laws, Rachid Pafadnam, Nikola Spatafora and Khushboo Khandelwal (2025), ***IMF Note 2025/001***.
+
+[**Harnessing Renewables in Sub-Saharan Africa: Barriers, Reforms, and Economic Prospects**](https://www.imf.org/en/Publications/staff-climate-notes/Issues/2024/10/08/Harnessing-Renewables-in-Sub-Saharan-Africa-Barriers-Reforms-and-Economic-Prospects-555077), 2024, ***IMF Staff Climate Note 2024/005***.
+
+[**Debt Dilemmas in Sub-Saharan Africa: Some Principles and Trade-Offs in Debt Restructuring**](https://www.imf.org/en/Publications/REO/SSA/Issues/2023/10/16/regional-economic-outlook-for-sub-saharan-africa-october-2023), IMF (2023), in ***Regional Economic Outlook: Sub-Saharan Africa--Light on the Horizon?***.
+
+[**The Long Squeeze: Funding Development in an Age of Austerity**](https://www.imf.org/en/Publications/REO/SSA/Issues/2023/10/16/regional-economic-outlook-for-sub-saharan-africa-october-2023), IMF (2023), in ***Regional Economic Outlook: Sub-Saharan Africa--Light on the Horizon?***.
+
+## Reports
+
+
+
+
+
+
 "[**Continuar a investir na diversificação da economia é mais importante do que nunca**](https://expressodasilhas.cv/)," *Expresso das Ilhas, Cabo Verde (SSA REO - April 2025)*
 
 "[**Um dos maiores desafios é tornar a dívida em investimento produtivo, para que possa impactar positivamente a economia**](https://expressodasilhas.cv/economia/2024/04/28/um-dos-maiores-desafios-e-tornar-a-divida-em-investimento-produtivo-para-que-possa-impactar-positivamente-a-economia/91163)," *Expresso das Ilhas, Cabo Verde (SSA REO - April 2024)*
