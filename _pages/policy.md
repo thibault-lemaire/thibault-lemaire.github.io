@@ -1,5 +1,5 @@
 ---
-title: "Policy"
+title: "Other Publications"
 layout: single
 classes: wide
 excerpt: "Presentation of my research"
