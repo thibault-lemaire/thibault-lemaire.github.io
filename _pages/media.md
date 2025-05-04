@@ -8,7 +8,7 @@ permalink: /media
 ---
 
 ## Press Interviews
-[**Renforcer le soutien de la communauté internationale en faveur de l’Afrique pour répondre à la crise**](https://ferdi.fr/dl/df-5bVbftTuESzje3KHpERFZLUa/ferdi-b220-renforcer-le-soutien-de-la-communaute-internationale-en-faveur.pdf), *Ferdi Note brève B220*, with [Melchior Clerc](https://ideas.repec.org/e/pcl161.html), [Luc Jacolin](https://www.banque-france.fr/en/economie/economistes-et-chercheurs/luc-jacolin) and Nathan Viltard
+""[**Continuar a investir na diversificação da economia é mais importante do que nunca**](https://ferdi.fr/dl/df-5bVbftTuESzje3KHpERFZLUa/ferdi-b220-renforcer-le-soutien-de-la-communaute-internationale-en-faveur.pdf),"" *Expresso das Ilhas, Cabo Verde (SSA REO - April 2025)*
 
 ## Radio Interviews
 [**Dynamics and Implications of the Recent Rise in Wheat Prices**](https://blocnotesdeleco.banque-france.fr/en/blog-entry/dynamics-and-implications-recent-rise-wheat-prices), *Eco Notepad n°298*, with Raj Rajesh, Paul Vertier, Arthur Stalla-Bourdillon, and Aude Le Metayer \
