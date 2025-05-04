@@ -13,13 +13,11 @@ permalink: /media
 "[**Um dos maiores desafios é tornar a dívida em investimento produtivo, para que possa impactar positivamente a economia**](https://expressodasilhas.cv/economia/2024/04/28/um-dos-maiores-desafios-e-tornar-a-divida-em-investimento-produtivo-para-que-possa-impactar-positivamente-a-economia/91163)," *Expresso das Ilhas, Cabo Verde (SSA REO - April 2024)*
 
 ## Radio Interviews
-[**Dynamics and Implications of the Recent Rise in Wheat Prices**](https://blocnotesdeleco.banque-france.fr/en/blog-entry/dynamics-and-implications-recent-rise-wheat-prices), *Eco Notepad n°298*, with Raj Rajesh, Paul Vertier, Arthur Stalla-Bourdillon, and Aude Le Metayer \
-Version française : [**Dynamique et implications de la récente hausse des prix du blé**](https://blocnotesdeleco.banque-france.fr/billet-de-blog/dynamique-et-implications-de-la-recente-hausse-des-prix-du-ble), *Bloc-notes Éco n°298*
+[**Entrevista com Nuno Andrade Ferreira**](https://share.transistor.fm/s/05bb7fd0), *Rádio Morabeza, Cabo Verde (SSA REO - April 2025)*
 
-[**The pass-through of commodity prices to inflation in Africa**](https://blocnotesdeleco.banque-france.fr/en/blog-entry/pass-through-commodity-prices-inflation-africa), *Eco Notepad n°290*, with Paul Vertier \
-Version française : [**Transmission des prix des matières premières à l’inflation en Afrique**](https://blocnotesdeleco.banque-france.fr/billet-de-blog/transmission-des-prix-des-matieres-premieres-linflation-en-afrique), *Bloc-notes Éco n°290*
+[**Entrevista com Nuno Andrade Ferreira**](https://media.transistor.fm/60a0b5ce/c7e2ad9b.mp3), *Rádio Morabeza, Cabo Verde (SSA REO - April 2024)*
 
-[**Civil conflicts and exchange rate misalignment**](http://theforum.erf.org.eg/2021/10/03/civil-conflicts-exchange-rate-misalignment/), *The forum - ERF Policy Portal*
+
 
 [**Changement climatique : des migrations essentiellement intra-africaines**](https://ideas4development.org/climat-migrations-afrique/), *iD4D (in French)*, with [Maëlan Le Goff](https://ideas4development.org/auteur/maelan-legoff/) 
 
@@ -31,3 +29,10 @@ Version française : [**Transmission des prix des matières premières à l’in
 **Situation sanitaire et conséquences socio‑économiques de la crise en Afrique**, *in [Rapport annuel des coopérations monétaires Afrique-France - 2020](https://publications.banque-france.fr/liste-chronologique/cooperations-monetaires-afrique-france?year=2021)*, with [Melchior Clerc](https://ideas.repec.org/e/pcl161.html), [Luc Jacolin](https://www.banque-france.fr/en/economie/economistes-et-chercheurs/luc-jacolin) and Nathan Viltard
 
 ## Presentations
+
+
+
+
+
+
+[**Civil conflicts and exchange rate misalignment**](http://theforum.erf.org.eg/2021/10/03/civil-conflicts-exchange-rate-misalignment/), *The forum - ERF Policy Portal*
