@@ -16,7 +16,6 @@
 title: Thibault Lemaire
 email: thibault.lemaire@etu.univ-paris1.frequently
 description: "Personal website of Thibault Lemaire"
-twitter_username: lemaire_t
 github_username: thibault-lemaire
 minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 search: true
@@ -78,9 +77,6 @@ author:
     - label: "Me @ Banque de France"
       icon: "fas fa-fw fa-link"
       url: "https://www.banque-france.fr/en/thibault-lemaire"  
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/lemaire_t"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/thibault-lemaire"
@@ -91,9 +87,6 @@ author:
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/lemaire_t"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/thibault-lemaire"
