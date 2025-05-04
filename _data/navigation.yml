@@ -1,7 +1,7 @@
 main:
   - title: "CV"
     url: /cv
-  - title: "IMF"
+  - title: "IMF Publications"
     url: /imf
   - title: "Research"
     url: /research
