@@ -19,18 +19,16 @@ permalink: /media
 
 ## REO Videos
 
+**Em português**
 October 2023             |  April 2024
 :-------------------------:|:-------------------------:
 {% include youtube.html id="C9LqM4dwgIw" %}  |  {% include youtube.html id="HylKBBXQWGE" %}
 
+**En français**
+October 2023             |  Octobre 2024
+:-------------------------:|:-------------------------:
+{% include youtube.html id="ztSG0OqcKSY" %}  |  {% include youtube.html id="sPQMqNRrDvg" %}
 
-
-
-**Prix des matières premières et inflation en afrique**, *in [Rapport annuel des coopérations monétaires Afrique-France - 2021](https://publications.banque-france.fr/liste-chronologique/cooperations-monetaires-afrique-france?year=2022)*, with Paul Vertier
-
-**Vulnérabilité au réchauffement climatique en Afrique et flux migratoires**, *in [Rapport annuel des coopérations monétaires Afrique-France - 2020](https://publications.banque-france.fr/liste-chronologique/cooperations-monetaires-afrique-france?year=2021)*, with [Maëlan Le Goff](https://www.banque-france.fr/maelan-le-goff)
-
-**Situation sanitaire et conséquences socio‑économiques de la crise en Afrique**, *in [Rapport annuel des coopérations monétaires Afrique-France - 2020](https://publications.banque-france.fr/liste-chronologique/cooperations-monetaires-afrique-france?year=2021)*, with [Melchior Clerc](https://ideas.repec.org/e/pcl161.html), [Luc Jacolin](https://www.banque-france.fr/en/economie/economistes-et-chercheurs/luc-jacolin) and Nathan Viltard
 
 ## Presentations
 [**Harnessing Renewables in Sub-Saharan Africa: Barriers Reforms and Economic Prospects**](https://www.imfconnect.org/content/imf/en/annual-meetings/calendar/open/2024/10/22/188772.html), *Analytical Corner, 2024 Annual Meetings.*
