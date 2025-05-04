@@ -19,6 +19,8 @@ permalink: /media
 
 ## REO Videos
 
+{% include youtube.html id="C9LqM4dwgIw" %}
+
 Solarized dark             |  Solarized Ocean
 :-------------------------:|:-------------------------:
 {% include youtube.html id="C9LqM4dwgIw" %}  |  {% include youtube.html id="HylKBBXQWGE" %}
