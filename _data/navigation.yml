@@ -5,6 +5,8 @@ main:
     url: /research
   - title: "Policy"
     url: /policy
+  - title: "Media"
+    url: /media
   - title: "Teaching"
     url: /teaching
   - title: "Contact"
