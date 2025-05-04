@@ -19,6 +19,11 @@ permalink: /media
 
 ## REO Videos
 
+Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+{% include youtube.html id="C9LqM4dwgIw" %}  |  {% include youtube.html id="HylKBBXQWGE" %}
+
+
 <table>
 <tr>
 <th>Outubro de 2023</th>
