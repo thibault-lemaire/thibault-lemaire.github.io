@@ -18,8 +18,34 @@ permalink: /media
 [**Entrevista com Nuno Andrade Ferreira**](https://media.transistor.fm/60a0b5ce/c7e2ad9b.mp3), *Rádio Morabeza, Cabo Verde (SSA REO - April 2024)*
 
 ## REO Videos
-Try
+
+<table>
+<tr>
+<th>Outubro de 2023</th>
+<th>Abril de 2024</th>
+</tr>
+<tr>
+<td>
+<pre>
 {% include youtube.html id="C9LqM4dwgIw" %}
+</pre>
+</td>
+<td>
+
+```json
+{% include youtube.html id="HylKBBXQWGE" %}
+```
+
+</td>
+</tr>
+</table>
+
+Try
+
+
+
+
+
 
 [![Final video of fixing issues in your code in VS Code]
 (https://img.youtube.com/vi/C9LqM4dwgIw/maxresdefault.jpg)]
