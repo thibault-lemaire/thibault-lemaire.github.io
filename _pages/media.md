@@ -26,13 +26,6 @@ October 2023             |  April 2024
 
 
 
-
-
-
-[![Final video of fixing issues in your code in VS Code]
-(https://img.youtube.com/vi/C9LqM4dwgIw/maxresdefault.jpg)]
-(https://www.youtube.com/watch?v=C9LqM4dwgIw)
-
 **Prix des matières premières et inflation en afrique**, *in [Rapport annuel des coopérations monétaires Afrique-France - 2021](https://publications.banque-france.fr/liste-chronologique/cooperations-monetaires-afrique-france?year=2022)*, with Paul Vertier
 
 **Vulnérabilité au réchauffement climatique en Afrique et flux migratoires**, *in [Rapport annuel des coopérations monétaires Afrique-France - 2020](https://publications.banque-france.fr/liste-chronologique/cooperations-monetaires-afrique-france?year=2021)*, with [Maëlan Le Goff](https://www.banque-france.fr/maelan-le-goff)
