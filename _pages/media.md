@@ -20,14 +20,19 @@ permalink: /media
 ## REO Videos
 
 **Em português**
-October 2023             |  April 2024
-:-------------------------:|:-------------------------:
-{% include youtube.html id="C9LqM4dwgIw" %}  |  {% include youtube.html id="HylKBBXQWGE" %}
+Outubro de 2023:
+{% include youtube.html id="C9LqM4dwgIw" %}
+
+Abril de 2024:
+{% include youtube.html id="HylKBBXQWGE" %}
 
 **En français**
-October 2023             |  Octobre 2024
-:-------------------------:|:-------------------------:
-{% include youtube.html id="ztSG0OqcKSY" %}  |  {% include youtube.html id="sPQMqNRrDvg" %}
+
+Octobre 2023:
+{% include youtube.html id="ztSG0OqcKSY" %}
+
+Octobre 2024:
+{% include youtube.html id="sPQMqNRrDvg" %}
 
 
 ## Presentations
