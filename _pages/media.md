@@ -17,11 +17,6 @@ permalink: /media
 
 [**Entrevista com Nuno Andrade Ferreira**](https://media.transistor.fm/60a0b5ce/c7e2ad9b.mp3), *Rádio Morabeza, Cabo Verde (SSA REO - April 2024)*
 
-<iframe width="100%" height="180" frameborder="no" scrolling="no" seamless src="https://share.transistor.fm/e/05bb7fd0"></iframe>
-
-
-[**Changement climatique : des migrations essentiellement intra-africaines**](https://ideas4development.org/climat-migrations-afrique/), *iD4D (in French)*, with [Maëlan Le Goff](https://ideas4development.org/auteur/maelan-legoff/) 
-
 ## REO Videos
 **Prix des matières premières et inflation en afrique**, *in [Rapport annuel des coopérations monétaires Afrique-France - 2021](https://publications.banque-france.fr/liste-chronologique/cooperations-monetaires-afrique-france?year=2022)*, with Paul Vertier
 
@@ -30,10 +25,8 @@ permalink: /media
 **Situation sanitaire et conséquences socio‑économiques de la crise en Afrique**, *in [Rapport annuel des coopérations monétaires Afrique-France - 2020](https://publications.banque-france.fr/liste-chronologique/cooperations-monetaires-afrique-france?year=2021)*, with [Melchior Clerc](https://ideas.repec.org/e/pcl161.html), [Luc Jacolin](https://www.banque-france.fr/en/economie/economistes-et-chercheurs/luc-jacolin) and Nathan Viltard
 
 ## Presentations
+[**Harnessing Renewables in Sub-Saharan Africa: Barriers Reforms and Economic Prospects**](https://www.imfconnect.org/content/imf/en/annual-meetings/calendar/open/2024/10/22/188772.html), *Analytical Corner, 2024 Annual Meetings.*
 
 
 
 
-
-
-[**Civil conflicts and exchange rate misalignment**](http://theforum.erf.org.eg/2021/10/03/civil-conflicts-exchange-rate-misalignment/), *The forum - ERF Policy Portal*
