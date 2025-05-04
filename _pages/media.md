@@ -31,11 +31,7 @@ permalink: /media
 </pre>
 </td>
 <td>
-
-```json
 {% include youtube.html id="HylKBBXQWGE" %}
-```
-
 </td>
 </tr>
 </table>
