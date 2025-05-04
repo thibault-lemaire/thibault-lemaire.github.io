@@ -18,6 +18,9 @@ permalink: /media
 [**Entrevista com Nuno Andrade Ferreira**](https://media.transistor.fm/60a0b5ce/c7e2ad9b.mp3), *Rádio Morabeza, Cabo Verde (SSA REO - April 2024)*
 
 ## REO Videos
+Try
+{% include youtube.html id="C9LqM4dwgIw" %}
+
 **Prix des matières premières et inflation en afrique**, *in [Rapport annuel des coopérations monétaires Afrique-France - 2021](https://publications.banque-france.fr/liste-chronologique/cooperations-monetaires-afrique-france?year=2022)*, with Paul Vertier
 
 **Vulnérabilité au réchauffement climatique en Afrique et flux migratoires**, *in [Rapport annuel des coopérations monétaires Afrique-France - 2020](https://publications.banque-france.fr/liste-chronologique/cooperations-monetaires-afrique-france?year=2021)*, with [Maëlan Le Goff](https://www.banque-france.fr/maelan-le-goff)
