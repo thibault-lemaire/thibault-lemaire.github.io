@@ -20,6 +20,7 @@ permalink: /media
 ## REO Videos
 
 **Em português**
+
 Outubro de 2023:
 {% include youtube.html id="C9LqM4dwgIw" %}
 
