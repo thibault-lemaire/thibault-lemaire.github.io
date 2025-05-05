@@ -8,7 +8,7 @@ permalink: /media
 ---
 
 ## Press Interviews
-"[**Continuar a investir na diversificação da economia é mais importante do que nunca**](https://expressodasilhas.cv/)," *Expresso das Ilhas, Cabo Verde (SSA REO - April 2025)*
+"[**Continuar a investir na diversificação da economia é mais importante do que nunca**](https://expressodasilhas.cv/economia/2025/05/04/economista-do-departamento-africano-do-fmi-thibault-lemaire-continuar-a-investir-na-diversificacao-da-economia-e-mais-importante-do-que-nunca/96854)," *Expresso das Ilhas, Cabo Verde (SSA REO - April 2025)*
 
 "[**Um dos maiores desafios é tornar a dívida em investimento produtivo, para que possa impactar positivamente a economia**](https://expressodasilhas.cv/economia/2024/04/28/um-dos-maiores-desafios-e-tornar-a-divida-em-investimento-produtivo-para-que-possa-impactar-positivamente-a-economia/91163)," *Expresso das Ilhas, Cabo Verde (SSA REO - April 2024)*
 
