@@ -12,8 +12,7 @@ permalink: /imf
 [**Navigating the Evolving Landscape of External Financing in Sub-Saharan Africa**](https://www.imf.org/en/Publications/WP/Issues/2025/07/04/Navigating-the-Evolving-Landscape-of-External-Financing-in-Sub-Saharan-Africa-568248), with Adrian Alter, Khushboo Khandelwal, Hamza Mighri, Can Sever and Luc Tucker (2025), ***IMF Working Paper No. 2025/139***.
 
 [**Breaking the Trend: Debt Stabilization in Sub-Saharan Africa**](https://www.imf.org/en/Publications/IMF-Notes/Issues/2025/04/25/Breaking-the-Trend-Debt-Stabilization-in-Sub-Saharan-Africa-566178), with Athene Laws, Rachid Pafadnam, Nikola Spatafora and Khushboo Khandelwal (2025), ***IMF Note 2025/001***.
-    
-Blog: [**How to Stabilize Africa's Debt**](https://www.imf.org/en/News/Articles/2025/07/08/cf-how-to-stabilize-africas-debt), with Athene Laws and Nikola Spatafora (2025), ***IMF Country Focus***.
+    Blog: [**How to Stabilize Africa's Debt**](https://www.imf.org/en/News/Articles/2025/07/08/cf-how-to-stabilize-africas-debt), with Athene Laws and Nikola Spatafora (2025), ***IMF Country Focus***.
 
 [**Harnessing Renewables in Sub-Saharan Africa: Barriers, Reforms, and Economic Prospects**](https://www.imf.org/en/Publications/staff-climate-notes/Issues/2024/10/08/Harnessing-Renewables-in-Sub-Saharan-Africa-Barriers-Reforms-and-Economic-Prospects-555077), 2024, ***IMF Staff Climate Note 2024/005***.
 
