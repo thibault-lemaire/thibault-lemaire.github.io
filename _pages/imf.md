@@ -13,8 +13,6 @@ permalink: /imf
 
 [**Breaking the Trend: Debt Stabilization in Sub-Saharan Africa**](https://www.imf.org/en/Publications/IMF-Notes/Issues/2025/04/25/Breaking-the-Trend-Debt-Stabilization-in-Sub-Saharan-Africa-566178), with Athene Laws, Rachid Pafadnam, Nikola Spatafora and Khushboo Khandelwal (2025), ***IMF Note 2025/001***.
 
-[**How to Stabilize Africa's Debt**](https://www.imf.org/en/News/Articles/2025/07/08/cf-how-to-stabilize-africas-debt), with Athene Laws and Nikola Spatafora (2025), ***IMF Country Focus***.
-
 [**Harnessing Renewables in Sub-Saharan Africa: Barriers, Reforms, and Economic Prospects**](https://www.imf.org/en/Publications/staff-climate-notes/Issues/2024/10/08/Harnessing-Renewables-in-Sub-Saharan-Africa-Barriers-Reforms-and-Economic-Prospects-555077), 2024, ***IMF Staff Climate Note 2024/005***.
 
 International Monetary Fund (2023), [**Debt Dilemmas in Sub-Saharan Africa: Some Principles and Trade-Offs in Debt Restructuring**](https://www.imf.org/en/Publications/REO/SSA/Issues/2023/10/16/regional-economic-outlook-for-sub-saharan-africa-october-2023), in ***Regional Economic Outlook: Sub-Saharan Africa-Light on the Horizon?***.
@@ -33,4 +31,4 @@ Madagascar: [**Request for an Arrangement, Country Report No. 2024/205**](https:
 
 ## Blog
 
-IMF Country Focus (2025), [**How to Stabilize Africa's Debt**](https://www.imf.org/en/News/Articles/2025/07/08/cf-how-to-stabilize-africas-debt), with Athene Laws and Nikola Spatafora.
+[**How to Stabilize Africa's Debt**](https://www.imf.org/en/News/Articles/2025/07/08/cf-how-to-stabilize-africas-debt), with Athene Laws and Nikola Spatafora (2025), ***IMF Country Focus***.
