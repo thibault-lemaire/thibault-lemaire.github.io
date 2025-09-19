@@ -22,9 +22,15 @@ International Monetary Fund (2023), [**Debt Dilemmas in Sub-Saharan Africa: Some
 International Monetary Fund (2023), [**The Long Squeeze: Funding Development in an Age of Austerity**](https://www.imf.org/en/Publications/REO/SSA/Issues/2023/10/16/regional-economic-outlook-for-sub-saharan-africa-october-2023), in ***Regional Economic Outlook: Sub-Saharan Africa-Light on the Horizon?***.
 
 ## Reports
+
 International Monetary Fund (2024), [**Regional Economic Outlook: Sub-Saharan Africa-A Tepid and Pricey Recovery**](https://www.imf.org/en/Publications/REO/SSA/Issues/2024/04/19/regional-economic-outlook-for-sub-saharan-africa-april-2024), Washington, DC, October.
+
+Madagascar: [**Second Review, Country Report No. 2025/221**](https://doi.org/10.5089/9798229018999.002).
 
 Madagascar: [**2024 Article IV and First Review, Country Report No. 2025/060**](https://doi.org/10.5089/9798229003834.002).
 
 Madagascar: [**Request for an Arrangement, Country Report No. 2024/205**](https://doi.org/10.5089/9798400281709.002).
 
+## Blog
+
+IMF Country Focus (2025), [**How to Stabilize Africa's Debt**](https://www.imf.org/en/News/Articles/2025/07/08/cf-how-to-stabilize-africas-debt), with Athene Laws and Nikola Spatafora.
