@@ -13,6 +13,8 @@ Monetary and fiscal policy, open macroeconomics, informality, economics of clima
 
 ## Publications
 
+[**Electricity Access and Economic Development: Leveraging Climate Finance in Sub-Saharan Africa**](https://doi.org/10.1016/j.eneco.2025.109080), with Andrea Medici, Giovanni Melina, Gregor Schwerhoff and Sneha Thube (2026), ***Energy Economics***, 153 (109080).
+
 [**International Commodity Prices Transmission to Consumer Prices in Africa**](https://doi.org/10.1093/wber/lhae034), with Paul Vertier (2025), ***The World Bank Economic Review***, 39 (3), 522–552.
 
 [**Civil Conflicts and Exchange Rate Misalignment: Evidence from MENA and Arab League Members**](https://www.degruyter.com/document/doi/10.1515/rmeef-2022-0001/html), 2023, ***Review of Middle East Economics and Finance***, 19 (2), 101-130.
