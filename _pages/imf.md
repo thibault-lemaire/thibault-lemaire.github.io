@@ -9,6 +9,10 @@ permalink: /imf
 
 ## Research
 
+[**The Fiscal Multipliers Narrative of Sub-Saharan Africa**](https://www.imf.org/en/publications/wp/issues/2026/01/23/the-fiscal-multipliers-narrative-of-sub-saharan-africa-573440), with Hany Abdel-Latif, Khalil Bechchani and Antonio David (2026), ***IMF Working Paper No. 2026/012***.
+
+[**A Narrative Fiscal Consolidation Dataset for Sub-Saharan Africa**](https://www.imf.org/en/publications/wp/issues/2026/01/22/a-narrative-fiscal-consolidation-dataset-for-sub-saharan-africa-573369), with Hany Abdel-Latif, Khalil Bechchani and Antonio David (2026), ***IMF Working Paper No. 2026/011***.
+
 [**Navigating the Evolving Landscape of External Financing in Sub-Saharan Africa**](https://www.imf.org/en/Publications/WP/Issues/2025/07/04/Navigating-the-Evolving-Landscape-of-External-Financing-in-Sub-Saharan-Africa-568248), with Adrian Alter, Khushboo Khandelwal, Hamza Mighri, Can Sever and Luc Tucker (2025), ***IMF Working Paper No. 2025/139***.
 
 [**Breaking the Trend: Debt Stabilization in Sub-Saharan Africa**](https://www.imf.org/en/Publications/IMF-Notes/Issues/2025/04/25/Breaking-the-Trend-Debt-Stabilization-in-Sub-Saharan-Africa-566178), with Athene Laws, Rachid Pafadnam, Nikola Spatafora and Khushboo Khandelwal (2025), ***IMF Note 2025/001***.
