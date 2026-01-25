@@ -8,7 +8,7 @@ permalink: /policy
 ---
 
 ## Book Chapters
-[**États des lieux, dynamique et enjeux de la dette publique en Afrique subsaharienne**](https://www.editionsladecouverte.fr/l_economie_africaine_2026-9782348091438), with Samuel Delepierre, Francine Nyankiye and Arthur Sode (2026), in *Agence française de développement : L'économie africaine 2026*, éditions La Découverte.
+**États des lieux, dynamique et enjeux de la dette publique en Afrique subsaharienne**, with Samuel Delepierre, Francine Nyankiye and Arthur Sode (2026), in *[Agence française de développement : L'économie africaine 2026](https://www.editionsladecouverte.fr/l_economie_africaine_2026-9782348091438)*, éditions La Découverte.
 
 ## Policy Papers
 [**Renforcer le soutien de la communauté internationale en faveur de l’Afrique pour répondre à la crise**](https://ferdi.fr/dl/df-5bVbftTuESzje3KHpERFZLUa/ferdi-b220-renforcer-le-soutien-de-la-communaute-internationale-en-faveur.pdf), *Ferdi Note brève B220*, with [Melchior Clerc](https://ideas.repec.org/e/pcl161.html), [Luc Jacolin](https://www.banque-france.fr/en/economie/economistes-et-chercheurs/luc-jacolin) and Nathan Viltard
